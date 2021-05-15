@@ -1,3 +1,3 @@
-module github.com/jackpal/gateway
+module github.com/nickngsr/gateway
 
 go 1.14
